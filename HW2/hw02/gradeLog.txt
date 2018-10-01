@@ -1,0 +1,8 @@
+Bases.java: 
+	decimalStringToInt: 5.0/5.0
+	binaryStringToInt: 5.0/5.0
+	hexStringToInt: 5.0/5.0
+	intToBinaryString: 5.0/5.0
+	intToHexString: 5.0/5.0
+	Perfect!
+Final Grade: 25.0/25.0
