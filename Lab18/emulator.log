@@ -1,0 +1,23 @@
+Unknown configuration key throttle
+do_connect: could not connect to socket
+connect: No such file or directory
+VBA-M (BBA) [SDL]
+Searching for file vbam.cfg
+Searching current directory: /mnt/hgfs/Shared Folder/Lab 18
+Searching home directory: /home/abhinavtirath/.vbam
+Searching data directory: /usr/share/vbam
+Searching system config directory: /etc
+Reading configuration file.
+Searching for file vba-over.ini
+Searching current directory: /mnt/hgfs/Shared Folder/Lab 18
+Searching home directory: /home/abhinavtirath/.vbam
+Searching data directory: /usr/share/vbam
+Searching system config directory: /etc
+vba-over.ini NOT FOUND (using emulator settings)
+Trying patch pixels.ips
+Trying patch pixels.ups
+Trying patch pixels.ppf
+Trying to start LIRC: Failed
+Color depth: 32
+Shutting down
+14:45:25 29.10.2018: Wrote battery

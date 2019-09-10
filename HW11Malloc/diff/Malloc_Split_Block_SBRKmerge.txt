@@ -1,0 +1,24 @@
+************EXP ADDRESS LIST************                        |  ************ACT ADDRESS LIST************
+                                                                                                           
+Address: 0x21                                                      Address: 0x21                            
+Size: 184                                                          Size: 184                                
+PrevAddr: (nil)                                                    PrevAddr: (nil)                        
+NextAddr: 0x789                                                    NextAddr: 0x789                        
+                                                                                                           
+Address: 0x789                                                     Address: 0x789                           
+Size: 1856                                                         Size: 1856                               
+PrevAddr: 0x21                                                     PrevAddr: 0x21                         
+NextAddr: (nil)                                                    NextAddr: (nil)                        
+                                                                                                           
+************* EXP SIZE LIST*************                        |  ************* ACT SIZE LIST*************
+                                                                                                           
+Address: 0x21                                                      Address: 0x21                            
+Size: 184                                                          Size: 184                                
+PrevSize: (nil)                                                    PrevSize: (nil)                        
+NextSize: 0x789                                                    NextSize: 0x789                        
+                                                                                                           
+Address: 0x789                                                     Address: 0x789                           
+Size: 1856                                                         Size: 1856                               
+PrevSize: 0x21                                                     PrevSize: 0x21                         
+NextSize: (nil)                                                    NextSize: (nil)                        
+                                                                                                           

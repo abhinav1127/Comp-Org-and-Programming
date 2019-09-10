@@ -1,0 +1,24 @@
+************EXP ADDRESS LIST************                        |  ************ACT ADDRESS LIST************
+                                                                                                           
+Address: 0x201                                                     Address: 0x201                           
+Size: 312                                                          Size: 312                                
+PrevAddr: (nil)                                                    PrevAddr: (nil)                        
+NextAddr: 0x3b9                                                    NextAddr: 0x3b9                        
+                                                                                                           
+Address: 0x3b9                                                     Address: 0x3b9                           
+Size: 1096                                                         Size: 1096                               
+PrevAddr: 0x201                                                    PrevAddr: 0x201                        
+NextAddr: (nil)                                                    NextAddr: (nil)                        
+                                                                                                           
+************* EXP SIZE LIST*************                        |  ************* ACT SIZE LIST*************
+                                                                                                           
+Address: 0x201                                                     Address: 0x201                           
+Size: 312                                                          Size: 312                                
+PrevSize: (nil)                                                    PrevSize: (nil)                        
+NextSize: 0x3b9                                                    NextSize: 0x3b9                        
+                                                                                                           
+Address: 0x3b9                                                     Address: 0x3b9                           
+Size: 1096                                                         Size: 1096                               
+PrevSize: 0x201                                                    PrevSize: 0x201                        
+NextSize: (nil)                                                    NextSize: (nil)                        
+                                                                                                           
